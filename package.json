@@ -1,6 +1,6 @@
 {
   "name": "@wiwo/grunt-concurrent",
-  "version": "2.3.1",
+  "version": "2.3.1-wiwo.1",
   "description": "Run grunt tasks concurrently",
   "keywords": [
     "gruntplugin",
